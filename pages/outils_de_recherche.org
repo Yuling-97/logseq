@@ -2,4 +2,7 @@
 
 ** sites utiles:
 
-*** #+BEGIN_TIPS
+***
+#+BEGIN_TIPS
+1.
+#+END_TIPS
