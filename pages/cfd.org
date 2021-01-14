@@ -1,5 +1,6 @@
 #+TITLE: CFD
 
-** Théorie --  tuto de Fluent
+** Théorie --  tuto de Fluent : https://confluence.cornell.edu/display/SIMULATION/The+Blackbox
+***
 ** Cous de M2
 **
