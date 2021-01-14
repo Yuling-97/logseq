@@ -4,4 +4,5 @@
 *** [[coefficient de transfert]]
 *** [[convection]]
 ** Objectif de mon alternance à l'entreprise:
-*** obtenir un modèle sur openFoam de perte de charge dédié au four de chez EFR, et un modèle de transfert thermique
+*** obtenir un modèle sur openFoam de perte de charge dédié au four de chez EFR
+*** La même chose pour le transfert thermique
