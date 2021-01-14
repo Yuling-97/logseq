@@ -6,6 +6,6 @@
 Sachez que je travaille à l'entreprise sur des échangeurs à plaques, ils génèrent des tourbillons, réduisent des encrassement, ce qui permet de transférer la chaleur 
 流速↓，表面传热系数↓，污垢热阻↑，流体阻力↓；
 流速↑，表面传热系数↑，污垢热阻↓，流体阻力↑。没有阻力而流速太快的话无法传热
-2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le coefficient de transfert ou de convection
-3. l'objectif de la thèse? 
+TODO  2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le coefficient de transfert ou de convection
+TODO  3. l'objectif de la thèse? 
 le but de mon alternance à l'entreprise: déterminer un modèle sur openFoam de perte de charge dédié au four de chez EFR, et un modèle de transfert thermique
