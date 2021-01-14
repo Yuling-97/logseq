@@ -6,4 +6,6 @@
 During this part, we can do some estimates or hand calculations or experimental data to have some ideas of what the results need to be.
 *** solver uses the mathematical model to generate a numerical solution
 ** Cous de M2
-**
+** Formation avec M.Réveillon
+*** [[coefficient de transfert]]
+*** [[convection]]
