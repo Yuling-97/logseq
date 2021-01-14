@@ -3,14 +3,16 @@
 ** à la recherche d'une proposition de thèse, je collecte également les [[outils de recherche]] qui vons me servir
 ** le rendez-vous du 14/01/2021 avec M.Escriva sur le sujet d'exchangeur thermique:
 *** Questions à poser:
-*** DONE 1. sur quelle [[type d'échangeur]]? 
+**** DONE 1. sur quelle [[type d'échangeur]]?
 :PROPERTIES:
 :later: 1610644527844
 :done: 1610644525821
 :END:
-*** DONE  2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le [[coefficient de transfert]] ou de [[convection]]
+**** DONE  2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le [[coefficient de transfert]] ou de [[convection]]
 :PROPERTIES:
 :done: 1610645040166
 :END:
-*** TODO  3. l'objectif de la thèse? 
+**** TODO  3. l'objectif de la thèse? 
 le but de mon alternance à l'entreprise: déterminer un modèle sur openFoam de perte de charge dédié au four de chez EFR, et un modèle de transfert thermique
+*** Conclusion:
+**** c'est M.Cressel qui envisage de proposer une thèse sur l'échangeur à spirale (à confirmer...), alors que M.Escriva serait le co-encadrant notamment pour OpenFOAM.
