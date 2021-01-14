@@ -1,4 +1,5 @@
 #+TITLE: thèse
 
 ** à la recherche d'une proposition de thèse, je collecte également les [[outils de recherche]] qui vons me servir
-**
+** le rendez-vous du 14/01/2021 avec M.Escriva:
+***
