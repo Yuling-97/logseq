@@ -4,7 +4,7 @@
 
 ***
 #+BEGIN_TIP
-1. [[https://scholar.google.com][]]google scholar (https://scholar.google.com)  
+1. [[https://scholar.google.com][google scholar]] 
 2. bibliothèque universitaire en ligne (https://portaildoc.univ-lyon1.fr/) 
 3. wikipedia de préférence en anglais 
 4. youtube avec bons mots clé
