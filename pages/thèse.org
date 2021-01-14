@@ -19,7 +19,6 @@
 *** Conclusion:
 **** c'est M.Cressel qui envisage de proposer une thèse sur l'échangeur à spirale (à confirmer...), alors que M.Escriva serait le co-encadrant notamment pour OpenFOAM.
 **** On pourrait faire des essais expérimentaux pour la validation.
-*****
-***** le sujet est encore en phase de préparation, le financement n'est pas ok encore. Continuer à chercher les thèse cifre et autres.
+**** Le sujet est encore en phase de préparation, le financement n'est pas ok encore. Continuer à chercher les thèse cifre et autres.
 ***** TODO CSC date limite pour soumettre une proposition?
 **** le prochaine rdv aura lieu autour du 21/01/2021 à l'école Centrale à Ecully.
