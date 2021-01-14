@@ -4,6 +4,7 @@
 ** le rendez-vous du 14/01/2021 avec M.Escriva sur le sujet d'exchangeur thermique:
 *** DONE 1. sur quelle type (géométrie) d'échangeur? e.g. à tubes, à faisceau, à spirales, à plaque, à ailettes, à bloc, à fils fins, nouvelle géométrie...  
 :PROPERTIES:
+:later: 1610644527844
 :done: 1610644525821
 :END:
 Sachez que je travaille à l'entreprise sur des échangeurs à plaques, ils génèrent des tourbillons, réduisent des encrassement, ce qui permet de transférer la chaleur 
