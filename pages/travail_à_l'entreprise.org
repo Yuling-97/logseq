@@ -3,3 +3,4 @@
 ** Je me suis concentrée sur la [[perte de charge]] jusqu'à présent, mais prochainement i.e. à partir du mois de mars, je vais aborder la partie thermique, d'où:
 *** [[coefficient de transfert]]
 *** [[convection]]
+**
