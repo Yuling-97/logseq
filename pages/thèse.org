@@ -2,7 +2,7 @@
 
 ** à la recherche d'une proposition de thèse, je collecte également les [[outils de recherche]] qui vons me servir
 ** le rendez-vous du 14/01/2021 avec M.Escriva sur le sujet d'exchangeur thermique:
-*** LATER 1. sur quelle [[type d'échangeur]]? 
+*** DONE 1. sur quelle [[type d'échangeur]]? 
 :PROPERTIES:
 :later: 1610644527844
 :done: 1610644525821
