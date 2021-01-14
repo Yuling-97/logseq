@@ -7,5 +7,5 @@
 1. [[https://scholar.google.com][google scholar]] 
 2. [[https://portaildoc.univ-lyon1.fr/][bibliothèque universitaire en ligne]]
 3. wikipedia de préférence en anglais 
-4. youtube avec bons mots clé
+4. youtube avec bons mots clés
 #+END_TIP
