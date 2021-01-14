@@ -16,3 +16,4 @@
 le but de mon alternance à l'entreprise: déterminer un modèle sur openFoam de perte de charge dédié au four de chez EFR, et un modèle de transfert thermique
 *** Conclusion:
 **** c'est M.Cressel qui envisage de proposer une thèse sur l'échangeur à spirale (à confirmer...), alors que M.Escriva serait le co-encadrant notamment pour OpenFOAM.
+**** On pourrait faire du
