@@ -1,5 +1,5 @@
 #+TITLE: Jan 14th, 2021
 
-** aujourd'hui je commence à utiliser logseq pour créer les notes de [[CFD]] & [[projet Patran M2]] & [[thèse]]
+** aujourd'hui je commence à utiliser logseq pour créer les notes de [[CFD-théorie]] & [[projet Patran M2]] & [[thèse]]
 **
 **
