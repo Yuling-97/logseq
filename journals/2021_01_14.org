@@ -1,2 +1,4 @@
 #+TITLE: Jan 14th, 2021
 
+** aujourd'hui je commence à utiliser logseq pour créer les notes de [[CFD]] & [[projet Patran M2]]
+**
