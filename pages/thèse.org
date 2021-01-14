@@ -2,8 +2,7 @@
 
 ** à la recherche d'une proposition de thèse, je collecte également les [[outils de recherche]] qui vons me servir
 ** le rendez-vous du 14/01/2021 avec M.Escriva sur le sujet d'exchangeur thermique:
-*** questions pour le rdv :
-TODO 1. sur quelle type (géométrie) d'échangeur? e.g. à tubes, à faisceau, à spirales, à plaque, à ailettes, à bloc, à fils fins, nouvelle géométrie...  
+*** TODO 1. sur quelle type (géométrie) d'échangeur? e.g. à tubes, à faisceau, à spirales, à plaque, à ailettes, à bloc, à fils fins, nouvelle géométrie...  
 Sachez que je travaille à l'entreprise sur des échangeurs à plaques, ils génèrent des tourbillons, réduisent des encrassement, ce qui permet de transférer la chaleur 
 流速↓，表面传热系数↓，污垢热阻↑，流体阻力↓；
 流速↑，表面传热系数↑，污垢热阻↓，流体阻力↑。没有阻力而流速太快的话无法传热
