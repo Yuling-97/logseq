@@ -1,6 +1,6 @@
 #+TITLE: thèse
 
-** à la recherche d'une proposition de thèse sur [[CFD]] , je collecte également les [[outils de recherche]] qui vons me servir
+** à la recherche d'une proposition de thèse sur [[CFD cours]] , je collecte également les [[outils de recherche]] qui vons me servir
 ** le rendez-vous du 14/01/2021 avec M.Escriva sur le sujet d'exchangeur thermique:
 *** Questions à poser:
 **** DONE 1. sur quelle [[type d'échangeur]]?
