@@ -12,7 +12,10 @@
 :PROPERTIES:
 :done: 1610645040166
 :END:
-**** TODO  3. l'objectif de la thèse?
+**** DONE  3. l'objectif de la thèse?
+:PROPERTIES:
+:done: 1610645516419
+:END:
 *** Conclusion:
 **** c'est M.Cressel qui envisage de proposer une thèse sur l'échangeur à spirale (à confirmer...), alors que M.Escriva serait le co-encadrant notamment pour OpenFOAM.
 **** On pourrait faire des essais expérimentaux pour la validation.
