@@ -1,3 +1,5 @@
 #+TITLE: échangeurs à plaques
 
-**
+** ils génèrent des tourbillons, réduisent des encrassement, ce qui permet de transférer la chaleur 
+流速↓，表面传热系数↓，污垢热阻↑，流体阻力↓；
+流速↑，表面传热系数↑，污垢热阻↓，流体阻力↑。没有阻力而流速太快的话无法传热
