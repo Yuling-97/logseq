@@ -7,6 +7,6 @@
 :later: 1610644527844
 :done: 1610644525821
 :END:
-*** TODO  2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le coefficient de transfert ou de convection
+*** TODO  2. on va effectuer des essais expérimentaux ? par exemple pour déterminer le ((coefficient de transfert)) ou de convection
 *** TODO  3. l'objectif de la thèse? 
 le but de mon alternance à l'entreprise: déterminer un modèle sur openFoam de perte de charge dédié au four de chez EFR, et un modèle de transfert thermique
