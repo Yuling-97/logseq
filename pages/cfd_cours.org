@@ -1,3 +1,8 @@
 #+TITLE: CFD cours
 
-** 
+** [[https://confluence.cornell.edu/display/SIMULATION/FLUENT+Learning+Modules][Tuto de Fluent]]
+
+*** the most important: *Pre-analysis*!!!
+ physical principles and assumptions to get a mathematical model. 
+During this part, we can do some estimates or hand calculations or experimental data to have some ideas of what the results need to be.
+***
