@@ -1,7 +1,7 @@
 #+TITLE: CFD
 
 ** Théorie --  tuto de Fluent : https://confluence.cornell.edu/display/SIMULATION/The+Blackbox
-*** the most important: Pre-analysis!!!
+*** the most important: **Pre-analysis**!!!
  physical principles and assumptions to get a mathematical model. 
 During this part, we can do some estimates or hand calculations or experimental data to have some ideas of what the results need to be.
 ** Cous de M2
