@@ -1,0 +1,12 @@
+#+TITLE: projet Patran M2
+
+** progrès du 15/01/2021 (avant dernière séance):
+
+*** résolu le problème de matériel partie non linéaire avec la courbe de contrainte-déformation complète
+*** eu des résultats de displacements & contrainte forces
+*** eu un premier raffinement de maillage Nb d'élément: 548
+** il reste à faire:
+*** raffiner jusqu'à le résultat converge, noter bien les valeurs
+*** appliquer une décharge
+*** tracer la courbe
+*** commencer la rédaction de PPT
