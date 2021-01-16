@@ -4,4 +4,8 @@
 
 *** signification du qualificatif "turbulent":
 **** irrégulier dans le temps et dans l'espace
-**** très sensible aux conditions initiales
+**** ^^très sensible aux conditions initiales^^
+**** d'apparence aléatoire
+**** tridimensionnel
+**** rotationnel
+****
