@@ -9,3 +9,5 @@
 **** tridimensionnel
 **** rotationnel
 **** difficilement prédictibles (ex: météorologie)
+*** La turbulence dans les écoulements de fluide est un phénomène encore imparfaitement compris,
+pour lequel il n’existe pas de théorie complète.
