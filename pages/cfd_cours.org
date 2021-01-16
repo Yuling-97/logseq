@@ -8,6 +8,7 @@ During this part, we can do some estimates or hand calculations or experimental 
 *** solver uses the mathematical model to generate a numerical solution
 ** Cous de M2
 *** [[convergence]]: minimum faut 2 maillages pour dire que le résultat converge et qu'il n'y a pas d'effet de maillage sur le résultat) e.g. 5% de tolérance i.e. erreur relative entre 2 résultats.
+***
 ** Formation avec M.Réveillon
 *** [[coefficient de transfert]]
 *** [[convection]]
