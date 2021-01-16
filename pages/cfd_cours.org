@@ -1,6 +1,6 @@
 #+TITLE: CFD cours
 
-** Computational fluid dynamics a comme computational fluid dynamics
+** Computational fluid dynamics a comme
 *** avantage ou gain de temps:
 **** éviter les prototypes physiques couteux
 *** limtes:
