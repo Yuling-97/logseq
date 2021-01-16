@@ -16,4 +16,7 @@
 *** Deux exemples de transition laminaire-turbulent
 **** Expérience d’Osborne Reynolds (1842–1912)
 ***** Le nombre de Reynolds indique une transition entre régime laminaire et turbulent. Rq: _Re_ dépend du niveau de perturbation, e.g.  le critère courant pour le calcul des pertes de charge en tuyau: _Re=2000_
-*****
+***** Malgré la simplicité de sa
+géométrie, l’écoulement de Poiseuille est en fait très complexe. Tous les écoulements ne présentent
+pas ce caractère.
+****
