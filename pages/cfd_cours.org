@@ -1,7 +1,7 @@
 #+TITLE: CFD cours
 
 ** Computational fluid dynamics ou la simulation sur ordinateur a comme
-*** intérêt ou gain de temps:
+*** intérêt:
 **** éviter les prototypes physiques couteux
 *** limtes:
 **** pertinence du modèle à vérifier
