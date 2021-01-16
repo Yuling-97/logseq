@@ -2,7 +2,7 @@
 
 ** Computational fluid dynamics ou la simulation sur ordinateur a comme
 *** intérêt:
-**** éviter les prototypes physiques couteux
+**** réaliser un grand nombre d'études avant les prototypes physiques couteux
 *** limtes:
 **** pertinence du modèle à vérifier
 **** hypothèses intrinsèques des logiciels commerciaux cachées
