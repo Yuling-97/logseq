@@ -15,4 +15,4 @@
 ***** Les modèles permettant la prédiction numérique sont plut au moins empiriques, ils utilisent un mode de description statistique.
 *** Deux exemples de transition laminaire-turbulent
 **** Expérience d’Osborne Reynolds (1842–1912)
-***** Le nombre de Reynolds indique une transition entre régime laminaire et turbulent.
+***** Le nombre de Reynolds indique une transition entre régime laminaire et turbulent. Rq: _Re_ dépend de conditions
