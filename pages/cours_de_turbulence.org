@@ -3,4 +3,5 @@
 ** Chap1 Introduction à l'étude des écoulements turbulents
 
 *** signification du qualificatif "turbulent":
-****
+**** irrégulier dans le temps et dans l'espace
+**** très sensible aux conditions initiales
