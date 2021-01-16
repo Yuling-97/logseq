@@ -12,4 +12,4 @@
 *** La turbulence dans les écoulements de fluide est un phénomène encore imparfaitement compris, pour lequel il n’existe pas de théorie complète.
 **** On sait que ce phénomène est décrit par les équations de Navier-Stokes et qu’il traduit un comportement particulier des solutions de ces équations.
 **** Les propriétés considérées comme génériques n'ont pas été prouvées rigoureusement.
-****
+**** Les modèles permettant la prédiction numérique sont plut au moins empiriques, ils utilisent un mode de description statistique.
