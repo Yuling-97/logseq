@@ -8,4 +8,4 @@
 **** d'apparence aléatoire
 **** tridimensionnel
 **** rotationnel
-**** difficilement prédictibles
+**** difficilement prédictibles (ex: météorologie)
