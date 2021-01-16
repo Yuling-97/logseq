@@ -2,4 +2,4 @@
 
 ** aspect mathématique:
 *** Equations algébriques *non linéaire*: i.e. le comportement du système n'est pas linéaire, la sortie n'est pas proportionnelle à l'entrée.
-*** Equations différentielles non linéaires *couplées*: i.e.
+*** Equations différentielles non linéaires *couplées*: i.e. elles ne peuvent pas être résolues séparément.
