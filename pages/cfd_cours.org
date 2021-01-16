@@ -1,7 +1,8 @@
 #+TITLE: CFD cours
 
 ** Computational fluid dynamics a comme
-*** avantage:
+*** avantage ou gain de temps:
+****
 ** [[https://confluence.cornell.edu/display/SIMULATION/FLUENT+Learning+Modules][Tuto de Fluent]]
 *** the most important: *Pre-analysis*!!!
  physical principles and assumptions to get a mathematical model. 
