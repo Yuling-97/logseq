@@ -1,5 +1,4 @@
 #+TITLE: solution numérique
 
-** mathématiques:
-
+** aspect mathématique:
 ***
