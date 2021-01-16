@@ -19,4 +19,7 @@
 ***** Malgré la simplicité de sa
 géométrie, l’écoulement de Poiseuille est en fait très complexe. Tous les écoulements ne présentent
 pas ce caractère.
-****
+**** Un écoulement de fluide de viscosité ν arrive avec une vitesse unforme U∞x~ sur un cylindre de diamètre D = 2R, d’axe (O, z~) normal à x~ (Figure (1.2.3)). Le nombre de Reynolds est défini par
+R e =
+U∞D
+ν
