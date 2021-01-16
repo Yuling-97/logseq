@@ -2,4 +2,5 @@
 
 ** Chap1 Introduction à l'étude des écoulements turbulents
 
-***
+*** signification du qualificatif "turbulent":
+****
