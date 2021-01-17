@@ -1,0 +1,3 @@
+#+TITLE: convergence
+
+** plus le nombre de Reynolds est important, plus les équations à résoudre sont nombreuses, donc plus le nombre d'itérations est élevé, i.e. il nécessite un temps plus important pour atteindre la convergence.
