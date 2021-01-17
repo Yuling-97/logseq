@@ -14,3 +14,4 @@ $$Re=6$$ NB: pour augmenter le nombre de Reynolds, on diminue la valeur de visco
 Résultat resemblable que Re=1.
 Rq: le calcul s'arrête avec un nombre d'itération plus élevé que Re=1, il a besoin de résoudre plus d'équations pour converger.
 ****
+****
