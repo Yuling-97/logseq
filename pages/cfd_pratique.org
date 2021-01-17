@@ -3,7 +3,7 @@
 ** Sillage en aval d'un cylindre sous *OpenFOAM v8*. Voir les solutions expérimentales dans _cours-M2/introduction_images.pdf/pages 12_.
 *** Case set-up:
 **** un écoulement de fluide de viscosité $$mu=1$$ arrive avec une vitesse uniforme $$U=1$$ sur un cylindre de diamètre $$D=1$$
-*** Résultats en fonctions de Re
+*** Résultats en fonctions de Re:
 **** écoulement stationnaire avec _simpleFoam_
 *****
 $$Re=1$$ 
