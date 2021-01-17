@@ -2,4 +2,4 @@
 
 ** Un nombre d'éléments = 125000 a un temps de calcul important pour mon PC.
 ** Un nombre d'éléments = 17000 suffit pour étudier le sillage en aval d'un cylindre.
-** Pour comparaison les résultats d'un cas en stationnaire avec l'instationnaire
+** Pour comparer les résultats d'un cas en stationnaire avec l'instationnaire
