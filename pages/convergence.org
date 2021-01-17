@@ -1,4 +1,4 @@
 #+TITLE: convergence
 
 ** plus le nombre de Reynolds est important, plus les équations à résoudre sont nombreuses, donc plus le nombre d'itérations est élevé, i.e. il nécessite un temps plus important pour atteindre la convergence. ^^idem pour un maillage plus fin^^
-** Nous avons remarqué que
+** Nous avons remarqué qu'un cas instationnaire avec _pimpleFoam_ necéssite un maillage plus fin pour converger qu'un cas stationnaire avec _simpleFoam_.
