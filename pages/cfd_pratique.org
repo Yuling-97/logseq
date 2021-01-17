@@ -22,6 +22,7 @@ Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. pert
 **** écoulement instationnaire avec _pimpleFoam_. Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes.
 *****
 $$Re=1$$ Le résultat n'a pas sens physique, ça indique que le problèm est mal posé.
+On doit savoir que pour une fluide de viscosité =1, de vitesse initiale =1
 *****
 $$Re=40$$ 
 L'écoulement est instationnaire de 0 jusqu'à t=12, après lequel l'écoulement est stationnaire. Dans le cas instationnaire, on s'intéresse aux oscillations ou aux évolutions.
