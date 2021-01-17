@@ -4,7 +4,7 @@
 *** Case set-up:
 **** un écoulement de fluide de viscosité $$mu=1$$ arrive avec une vitesse uniforme $$U=1$$ sur un cylindre de diamètre $$D=1$$
 *** Résultats en fonctions de Re:
-**** écoulement stationnaire avec _simpleFoam_
+**** écoulement stationnaire avec _simpleFoam_:
 *****
 $$Re=1$$ 
 N'est pas aussi symétrique que dans l'essai expérimental. 
@@ -19,7 +19,7 @@ Résultat très resemblable que Re=1.
 *****
 $$Re=40$$ Tourbillons à l'arrière du cylindre. 
 Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
-**** écoulement instationnaire avec _pimpleFoam_. Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes.
+**** écoulement instationnaire avec _pimpleFoam_. Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes:
 *****
 $$Re=1$$ Le résultat n'a pas sens physique, ça indique que le problèm est mal posé.
 On doit savoir que pour une fluide de viscosité de 1, arrive avec une vitesse initiale de 1 sur un cylindre de diamètre =1, le comportement en réalité est stationnaire et laminair, on ne peut pas utiliser le solver instationnaire pour résoudre numériquement!! D'où l'intérêt de consulter les essais expérimentaux avant de lancer un calcul numérique, il faut savoir le sens physique! Quand le problème est stationnaire, ça marche pas avec _pimpleFoam_!! (c'est la raison pour laquelle je ne pouvais pas avoir de bons résultats pendant la période de stage!)
