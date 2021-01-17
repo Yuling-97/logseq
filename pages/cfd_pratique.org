@@ -23,6 +23,6 @@ Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. pert
 *****
 $$Re=40$$ Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes.
 L'écoulement est instationnaire de 0 jusqu'à t=12, après lequel l'écoulement est stationnaire.
-La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage.
+La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage. Alors qu'on obtient Umax=1,6 donc on raffine jusqu'au 3eme maillage.
 **** dooj
 ***
