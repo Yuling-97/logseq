@@ -4,6 +4,7 @@
 *** Case set-up:
 **** un écoulement de fluide de viscosité $$mu=1$$ arrive avec une vitesse uniforme $$U=1$$ sur un cylindre de diamètre $$D=1$$
 *** Résultats en fonctions de Re
+**** écoulement stationnaire
 ****
 $$Re=1$$ 
 N'est pas aussi symétrique que dans l'essai expérimental. 
