@@ -25,4 +25,4 @@ R e =U∞D/ν
 ****** it takes place when a fluid flows past a bluff body (opposed to streamlined body)
 ****** it is related to the Strouhal number
 ***** allées de tourbillons de von Karman (vortex street)
-****** observées souvent dans un système
+****** observées souvent dans un système tourbillons
