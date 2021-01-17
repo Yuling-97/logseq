@@ -26,3 +26,4 @@ R e =U∞D/ν
 ****** it is related to the Strouhal number
 ***** allées de tourbillons de von Karman (vortex street)
 ****** observées souvent dans une conduite, derrière un obstacle
+****** 阻流体下游的两侧，会产生两道非对称地排列的旋涡，其中一侧的旋涡循时针方向转动，另一旋涡则反方向旋转，这两排旋涡相互交错排列，各个旋涡和对面两个旋涡的中间点对齐，如街道道两边的街灯一般，故名涡街。
