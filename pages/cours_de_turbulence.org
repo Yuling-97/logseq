@@ -20,4 +20,4 @@
 R e =U∞D/ν
 ***** Malgré la simplicité de sa géométrie, l’écoulement de Poiseuille est en fait très complexe. Tous les écoulements ne présentent pas ce caractère.
 **** Sillage derrière un cylindre
-***** Des observations expérimentales ont été représentées dans le cours, j'essaie de faire des calculs numériques pour retrouver les résultats, [[CFD pratique]]
+***** Des observations expérimentales ont été représentées dans le cours, j'essaie de faire des calculs numériques dans [[CFD pratique]] pour retrouver les résultats.
