@@ -3,6 +3,6 @@
 ** Sillage en aval d'un cylindre
 
 *** Case set-up:
-**** un écoulement de fluide de viscosité $$mu=1$$
+**** un écoulement de fluide de viscosité $$mu=1$$ arrive avec une vitesse uniforme
 ****
 ****
