@@ -20,7 +20,7 @@ Résultat très resemblable que Re=1.
 $$Re=40$$ Tourbillons à l'arrière du cylindre. 
 Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
 ****** Remarques sur l'instationnalité avec _simpleFoam_:
-*******
+******* Ce problème est en réalité instationnaire, mais on constate que
 **** écoulement instationnaire avec _pimpleFoam_. Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes:
 *****
 $$Re=1$$ Le résultat n'a pas sens physique, ça indique que le problèm est mal posé.
