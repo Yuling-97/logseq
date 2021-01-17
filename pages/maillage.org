@@ -2,4 +2,4 @@
 
 ** Un nombre d'éléments = 125000 a un temps de calcul important pour mon PC.
 ** Un nombre d'éléments = 17000 suffit pour étudier le sillage en aval d'un cylindre.
-** Quand on étudie un cas instationnaire, raffiner le maillge ne changerait pas le temps où le calcul devient stationnaire.
+** Quand on étudie un cas instationnaire, raffiner le maillge ne changerait pas le moment où le calcul devient stationnaire. e.g. Dans [[CFD pratique]]
