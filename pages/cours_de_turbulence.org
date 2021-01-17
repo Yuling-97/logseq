@@ -23,5 +23,5 @@ R e =U∞D/ν
 ***** Des observations expérimentales ont été représentées dans le cours, j'essaie de faire des calculs numériques dans [[CFD pratique]] pour retrouver les résultats.
 ***** détachement tourbillonnaire (vortex shedding)
 ****** it takes place when a fluid flows past a bluff body (opposed to streamlined body)
-****** it is related to
+****** it is related to the Strouhal number
 ***** allées de tourbillons de von Karman (vortex street)
