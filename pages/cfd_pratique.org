@@ -20,6 +20,7 @@ Résultat très resemblable que Re=1.
 $$Re=40$$
 tourbillons à l'arrière du cylindre. Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
 **** écoulement instationnaire avec _pimpleFoam_
-****
+*****
+$$Re=40$$
 **** dooj
 ***
