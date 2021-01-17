@@ -29,7 +29,7 @@ L'écoulement est instationnaire de 0 jusqu'à t=14, après lequel l'écoulement
 ****** Remarques sur la [[convergence]]:
 ******* La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage. Alors qu'on obtient Umax=1,6 donc on raffine jusqu'au 3eme maillage. Mais Umax reste la même, on pourra étudier les causes ultérieurement, mais on va utiliser une erreur relative de 6% pour dire qu'il a convergé.
 ****** Remarques sur le [[maillage]]
-******* Certes, le 3eme maillage
+******* Certes, le 2eme et 3eme maillage prennent un temps important
 ******* En raffinant, l'écoulement devient toujours stationnaire en t=14.
 ****
 ***
