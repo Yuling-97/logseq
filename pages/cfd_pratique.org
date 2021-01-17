@@ -22,5 +22,6 @@ tourbillons à l'arrière du cylindre. Rq: il y a plus de tourbillons en bas de 
 **** écoulement instationnaire avec _pimpleFoam_
 *****
 $$Re=40$$ au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes.
+l'écoulement est instationnaire de 0 jusqu'à un temps de 12 s
 **** dooj
 ***
