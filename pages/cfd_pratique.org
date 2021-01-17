@@ -8,4 +8,5 @@
 ****
 $$Re=1$$ écoulement stationnaire, symétrique. Pas de tourbillons derrière le cylindre. Les vitesses max se trouvent aux deux côtés du cylindre.
 ****
+$$Re=6$$ NB: pour augmenter le nombre de Reynolds, on diminue la valeur de viscosité
 ****
