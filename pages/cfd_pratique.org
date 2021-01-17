@@ -6,7 +6,7 @@
 *** Résultats en fonctions de Re
 ****
 $$Re=1$$ écoulement stationnaire
-Pas symétrique comme . 
+Pas symétrique comme en expériment. 
 Pas de tourbillons derrière le cylindre. 
 Les vitesses max se trouvent aux deux côtés du cylindre.
 ****
