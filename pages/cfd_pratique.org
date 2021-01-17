@@ -21,7 +21,7 @@ $$Re=40$$ Tourbillons à l'arrière du cylindre.
 Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
 ****** Remarques sur l'instationnalité avec _simpleFoam_:
 ******* Ce problème est en réalité instationnaire, mais on constate que les résultats numérique avec le solver stationnaire ont un sens physique. Seulement les tourbillons sont moins nombreux qu'avec solver instationnaire, voir ci-dessous.
-******* TODO On va faire les mêmes comparaisons pour un cas de Re=200.
+******* TODO On va faire les mêmes comparaisons pour un cas de Re=100.
 :PROPERTIES:
 :todo: 1610895950312
 :END:
