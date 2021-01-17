@@ -21,6 +21,8 @@ $$Re=40$$ Tourbillons à l'arrière du cylindre.
 Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
 **** écoulement instationnaire avec _pimpleFoam_
 *****
+$$Re=1$$
+*****
 $$Re=40$$ Au bout de 40 secondes, je mesure toutes les 2 secondes mais le calcul se fait toutes les 0,001 secondes.
 L'écoulement est instationnaire de 0 jusqu'à t=12, après lequel l'écoulement est stationnaire. Dans le cas instationnaire, on s'intéresse aux oscillations ou aux évolutions.
 ****** Remarques sur la [[convergence]]:
