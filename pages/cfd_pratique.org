@@ -27,6 +27,6 @@ On doit savoir que pour une fluide de viscosité de 1, arrive avec une vitesse i
 $$Re=40$$ 
 L'écoulement est instationnaire de 0 jusqu'à t=12, après lequel l'écoulement est stationnaire. Dans le cas instationnaire, on s'intéresse aux oscillations ou aux évolutions.
 ****** Remarques sur la [[convergence]]:
-******* La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage. Alors qu'on obtient Umax=1,6 donc on raffine jusqu'au 3eme maillage. Mais Umax reste la même, on pourra étudier les causes ultérieurement, mais on va utiliser une erreur relative de
+******* La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage. Alors qu'on obtient Umax=1,6 donc on raffine jusqu'au 3eme maillage. Mais Umax reste la même, on pourra étudier les causes ultérieurement, mais on va utiliser une erreur relative de 6% pour dire qu'il a convergé.
 ****
 ***
