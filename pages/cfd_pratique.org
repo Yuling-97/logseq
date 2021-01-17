@@ -15,7 +15,7 @@ $$Re=6$$ NB: pour augmenter le nombre de Reynolds, on diminue la valeur de visco
 Résultat très resemblable que Re=1.
 ****** Remarques sur la [[convergence]]
 ******* Rq: le calcul s'arrête avec un nombre d'itération plus élevé que Re=1, il a besoin de résoudre plus d'équations pour converger.
-******* Rq: en ^^raffinant^^ le maillage, le nombre d'itération augmente. On retrouve les mêmes résultats (Umax=1,7 m/s) que le 1er maillage, donc on peut conclure que pour un cas de calcul aussi simple que celui-ci, le 1er maillage est suffisant à l'égard de convergence.
+******* Rq: en ^^raffinant^^ le maillage, le nombre d'itération augmente. On retrouve les mêmes résultats (Umax=1,7 m/s) que le 1er maillage, donc on peut conclure que pour un cas de calcul aussi simple que celui-ci, le 1er maillage est suffisant à l'égard de la convergence.
 *****
 $$Re=40$$
 tourbillons à l'arrière du cylindre. Rq: il y a plus de tourbillons en bas de la ligne centrale qu'en haut, i.e. perte de symétrie
