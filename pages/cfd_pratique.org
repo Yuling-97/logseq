@@ -1,6 +1,6 @@
 #+TITLE: CFD pratique
 
-** Sillage en aval d'un cylindre sous *OpenFOAM v8* voir les solutions expérimentales dans _cours-M2 introduction_images.pdf/pages 12_.
+** Sillage en aval d'un cylindre sous *OpenFOAM v8* voir les solutions expérimentales dans _cours-M2/introduction_images.pdf/pages 12_.
 *** Case set-up:
 **** un écoulement de fluide de viscosité $$mu=1$$ arrive avec une vitesse uniforme $$U=1$$ sur un cylindre de diamètre $$D=1$$
 *** Résultats en fonctions de Re
