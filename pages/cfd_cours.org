@@ -21,4 +21,5 @@ During this part, we can do some estimates or hand calculations or experimental 
 ** Formation avec M.Réveillon
 *** [[coefficient de transfert]]
 *** [[convection]]
+** [[CFD pratique]]
 **
