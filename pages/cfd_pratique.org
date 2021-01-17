@@ -25,7 +25,7 @@ $$Re=1$$ Le résultat n'a pas sens physique, ça indique que le problèm est mal
 On doit savoir que pour une fluide de viscosité de 1, arrive avec une vitesse initiale de 1 sur un cylindre de diamètre =1, le comportement en réalité est stationnaire et laminair, on ne peut pas utiliser le solver instationnaire pour résoudre numériquement!! D'où l'intérêt de consulter les essais expérimentaux avant de lancer un calcul numérique, il faut savoir le sens physique!
 *****
 $$Re=40$$ 
-L'écoulement est instationnaire de 0 jusqu'à t=12, après lequel l'écoulement est stationnaire. Dans le cas instationnaire, on s'intéresse aux oscillations ou aux évolutions.
+L'écoulement est instationnaire de 0 jusqu'à t=14, après lequel l'écoulement est stationnaire. Dans le cas instationnaire, on s'intéresse aux oscillations ou aux évolutions.
 ****** Remarques sur la [[convergence]]:
 ******* La Umax=1,5 indique que le calcul n'a pas convergé, donc on raffine jusqu'au 2eme maillage. Alors qu'on obtient Umax=1,6 donc on raffine jusqu'au 3eme maillage. Mais Umax reste la même, on pourra étudier les causes ultérieurement, mais on va utiliser une erreur relative de 6% pour dire qu'il a convergé.
 ****
