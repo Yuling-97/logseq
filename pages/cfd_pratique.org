@@ -13,6 +13,6 @@ Les vitesses max se trouvent aux deux côtés du cylindre.
 $$Re=6$$ NB: pour augmenter le nombre de Reynolds, on diminue la valeur de viscosité dans _constant/transportProperties_
 Résultat très resemblable que Re=1.
 Rq: le calcul s'arrête avec un nombre d'itération plus élevé que Re=1, il a besoin de résoudre plus d'équations pour converger.
-Rq: en raffinant le maillage, le nombre d'itération augmente plus
+Rq: en raffinant le maillage, le nombre d'itération augmente.
 ****
 ****
