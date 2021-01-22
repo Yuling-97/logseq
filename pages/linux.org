@@ -1,0 +1,9 @@
+#+TITLE: Linux
+
+** commende sous terminal
+
+*** =evince .pdf= pour visualier un fichier de pdf
+*** =ls -ltr =
+*** =history=
+*** =pwd= pour savoir path actuel
+*** =more= similaire que =gedit=

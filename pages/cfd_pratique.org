@@ -42,3 +42,4 @@ L'écoulement est instationnaire de 0 jusqu'à t=14, après lequel l'écoulement
 *****
 $$Re=100$$ On observe un détachement tourbillonnaire et des allées de tourbillons de von Karman
 *****
+** TP1 - M2 écoulement établi en canal plan

@@ -1,0 +1,7 @@
+#+TITLE: modèle turbulent
+
+** k-epsilon
+
+*** on étudie loin de parois, sans couche limite
+** k-omega SST
+*** avec maillage prismatique

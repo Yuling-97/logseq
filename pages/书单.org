@@ -1,0 +1,48 @@
+#+TITLE: 书单
+
+** 在 [[读书笔记]] 中记录每日学到的小知识
+
+** 未来简史 以色列作家Yuval Noah Harari
+*** 科普
+**** TODO 想知道纳米机器人进展如何
+:PROPERTIES:
+:todo: 1611249815397
+:END:
+**** TODO 嬉皮士
+:PROPERTIES:
+:todo: 1611252447371
+:END:
+**** TODO 核武器
+:PROPERTIES:
+:todo: 1611252468371
+:END:
+**** TODO 英国的维多利亚时代
+:PROPERTIES:
+:todo: 1611318317082
+:END:
+**** DONE 伊比鸠鲁提出的行为准则
+:PROPERTIES:
+:todo: 1611318336061
+:done: 1611318818015
+:END:
+**** TODO　美国独立宣言和欧盟人权宣言
+:PROPERTIES:
+:todo: 1611318569583
+:END:
+**** DONE 国内生产总值
+:PROPERTIES:
+:todo: 1611318397062
+:done: 1611318536059
+:END:
+**** DONE 法国社保 癌症
+:PROPERTIES:
+:todo: 1611318578062
+:done: 1611319233879
+:END:
+**** 逻辑炸弹（logic bomb）：指恶意代码，在和平时期就能植入，远程操控。比如让某个国家停电等。
+*** 摘抄 用于反复琢磨
+**** 历史不会允许真空
+*** 常识
+**** 契诃夫法则（Chekhov Law）：在第一幕中出现的枪，在第三幕中必然会发射。指前情中出现的每个元素在后文都会出场。
+**** 丛林法则：指弱肉强食，优胜劣汰，物竞天择的规律。
+**** capital de Suède : stockholm 斯德哥尔摩

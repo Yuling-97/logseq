@@ -1,0 +1,58 @@
+#+TITLE: DM aéro -M2
+
+** questions à répondret:
+*** comment mailler aux bords i.e. nombre de panneaux
+*** tracer le coefficient de pression en fonction d'alpha i.e angle d'incidence
+**** DONE coefficient de pression correspond à CP dans le code?
+:PROPERTIES:
+:todo: 1611083846123
+:done: 1611350569214
+:END:
+** coefficients
+*** =self.CN1= et =self.CN2= leurs équations se trouvent dans 5eme planche du cours-6.pdf. C'est pour les vitesses normales
+*** =self.CT1= et =self.CT2= leurs équations se trouvent dans 9eme planche du cours-6.pdf. Pour les vitesse tangentielles
+*** DONE coefficient de portance = coefficient de pression?
+:PROPERTIES:
+:todo: 1611335557770
+:done: 1611335593742
+:END:
+**** NON! coefficient de portance: Cl et de pression Cp
+** géometrie du profil NACA:
+*** https://fr.wikipedia.org/wiki/Profil_NACA  0015
+***
+$${\displaystyle y_{t}={\frac {t}{0{,}2}}\,\left[0{,}2969{\sqrt {\frac {x}{c}}}-0{,}1260\left({\frac {x}{c}}\right)-0{,}3516\left({\frac {x}{c}}\right)^{2}+0{,}2843\left({\frac {x}{c}}\right)^{3}-0{,}1015\left({\frac {x}{c}}\right)^{4}\right]}$$
+*** cette équation sert à définir les différents points sur le profil (en imposant x)
+*** http://airfoiltools.com/airfoil/details?airfoil=naca23015-il
+** méthode de panneaux
+*** DONE point de controles associé au centre de panneau, qu'est-ce que c'est le point de controle??
+:PROPERTIES:
+:todo: 1611335263145
+:done: 1611335430699
+:END:
+**** c'est lié à chaque panneau
+** il faut faire:
+*** DONE interprétation polynôminal à partir de coordonées téléchargées
+:PROPERTIES:
+:todo: 1611341150644
+:done: 1611344773471
+:END:
+**** python code
+***** https://blog.csdn.net/qq_20011607/article/details/81412985
+****** utilise interpolation spline d'ordre 2
+******* https://fr.wikipedia.org/wiki/Spline_cubique_d'Hermite
+**** problème de signe négatif
+***** https://stackoverflow.com/questions/45429831/valueerror-a-value-in-x-new-is-above-the-interpolation-range-what-other-re
+*** DONE maillage à l'aide de méthode de Kuethe & Chow
+:PROPERTIES:
+:todo: 1611341088412
+:done: 1611350547015
+:END:
+*** TODO regrouper et tracer les courbe & commenter
+:PROPERTIES:
+:todo: 1611352140793
+:END:
+*** TODO rédiger l'objectif & méthode & équations c.f. cours 6
+:PROPERTIES:
+:todo: 1611352163289
+:END:
+***

@@ -13,6 +13,7 @@
  physical principles and assumptions to get a mathematical model. 
 During this part, we can do some estimates or hand calculations or experimental data to have some ideas of what the results need to be.
 *** solver uses the mathematical model to generate a numerical solution
+*** [[Fluent]]
 ** Cous de M2
 *** [[convergence]]: minimum faut 2 maillages pour dire que le résultat converge et qu'il n'y a pas d'effet de maillage sur le résultat) e.g. 5% de tolérance i.e. erreur relative entre 2 résultats.
 *** la modélisation nécessite d'une [[solution numérique]]
@@ -22,4 +23,8 @@ During this part, we can do some estimates or hand calculations or experimental 
 *** [[coefficient de transfert]]
 *** [[convection]]
 ** [[CFD pratique]]
+*** [[convergence]]
+*** [[maillage]]
+*** [[modèle turbulent]]
+***
 **

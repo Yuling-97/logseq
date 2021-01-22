@@ -1,5 +1,5 @@
 #+TITLE: convergence
 
 ** Il faut au moins 2 maillages pour dire que le résultat converge.
-** Plus le nombre de Reynolds est important, plus les équations à résoudre sont nombreuses, donc plus le nombre d'itérations est élevé, i.e. il nécessite un temps plus important pour atteindre la convergence. ^^idem pour un maillage plus fin^^.
+** Plus le nombre de Reynolds est important, plus les équations à résoudre sont nombreuses, donc plus le nombre d'itérations est élevé, i.e. il nécessite un temps plus important pour que l'écoulement établisse ou stabilise donc atteindre la convergence. ^^idem pour un maillage plus fin^^.
 ** Nous avons remarqué qu'un cas instationnaire avec _pimpleFoam_ necéssite un maillage plus fin pour converger qu'un cas stationnaire avec _simpleFoam_.

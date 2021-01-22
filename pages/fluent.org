@@ -1,0 +1,12 @@
+#+TITLE: Fluent
+
+** x2go
+
+*** =module load ansys/fluent=
+*** =vglrun runwb2= pour workbench et =vglrun fluent= pour fluent
+** [[Linux]]
+** TP1 - M2 module fluent
+*** session _Setting Up Physics_
+**** _Type: Pressure Based_ pour fluide incompressible
+**** _Tpye: Density Based_ pour fluide compressible
+****

@@ -3,10 +3,26 @@
 ** progrès du 15/01/2021 (avant dernière séance):
 
 *** résolu le problème de matériel partie non linéaire avec la courbe de contrainte-déformation complète
-*** eu des résultats de displacements & contrainte forces
+*** eu des résultats de displacements & strain & stress
 *** eu un premier raffinement de maillage Nb d'élément: 548
-** il reste à faire:
-*** raffiner jusqu'à le résultat converge, noter bien les valeurs
-*** appliquer une décharge
-*** tracer la courbe
-*** commencer la rédaction de PPT
+*** il reste à faire:
+**** raffiner jusqu'à où le résultat converge, noter bien les valeurs
+**** appliquer une décharge
+**** tracer la courbe
+**** commencer la rédaction de PPT
+** progrès du 22/01/2021 (la dernière séance):
+*** validé le case numérique avec:
+**** géometrie: 1/4 de rectangle (0.1*0.025) unité en =m et Pa=
+**** maillage:
+***** mesh seed>uniform>Element Length =0.0007(taille de maillage, imposé dans Mesh>Global Edge Length)= >Curve Lsit =droite à gauche suivant y=
+***** mesh seed>one way bias>Element Length =0.0007= >Curve List =droite en bas =
+**** conditions aux limites:
+***** encastrement à gauche (,0,0) pour bloquer le déplacement suivant y
+***** appui plan en bas :(,0,0) (0, ,) pour symétrie
+***** déplacement imposé à droite: (0.04,0,0)
+**** matériel: aluminium: linéaire: =E: 6.533E+10 et possion: 0.33=, élastoplastique: =critère Von Mises et courbe=
+**** properties: =2D Solid: planer strain= déformation plane
+*** il reste à
+**** expliquer le problématique
+**** trouver un résultat expérimental pour la validation
+**** étude de converge itération residual
