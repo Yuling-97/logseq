@@ -40,9 +40,20 @@
 :done: 1611319233879
 :END:
 **** 逻辑炸弹（logic bomb）：指恶意代码，在和平时期就能植入，远程操控。比如让某个国家停电等。
+**** TODO 马克思的资本论 对经济和历史的思考方式
+:PROPERTIES:
+:todo: 1611423719400
+:END:
+**** TODO 反乌托邦 dystopia
+:PROPERTIES:
+:todo: 1611423998728
+:END:
 *** 摘抄 用于反复琢磨
 **** 历史不会允许真空
 *** 常识
 **** 契诃夫法则（Chekhov Law）：在第一幕中出现的枪，在第三幕中必然会发射。指前情中出现的每个元素在后文都会出场。
+***** 在战争领域逃出了契诃夫法则的魔掌是由于核武器的出现。
 **** 丛林法则：指弱肉强食，优胜劣汰，物竞天择的规律。
 **** capital de Suède : stockholm 斯德哥尔摩
+** Les confessions Jean-Jaques Rousseau
+*** [[Vocabulaire]]

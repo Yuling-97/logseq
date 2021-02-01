@@ -23,6 +23,8 @@
 $${\displaystyle y_{t}={\frac {t}{0{,}2}}\,\left[0{,}2969{\sqrt {\frac {x}{c}}}-0{,}1260\left({\frac {x}{c}}\right)-0{,}3516\left({\frac {x}{c}}\right)^{2}+0{,}2843\left({\frac {x}{c}}\right)^{3}-0{,}1015\left({\frac {x}{c}}\right)^{4}\right]}$$
 *** cette équation sert à définir les différents points sur le profil (en imposant x)
 *** http://airfoiltools.com/airfoil/details?airfoil=naca23015-il
+*** interpolations polynôminale:
+**** https://fr.wikipedia.org/wiki/Spline_cubique_d'Hermite
 ** méthode de panneaux
 *** DONE point de controles associé au centre de panneau, qu'est-ce que c'est le point de controle??
 :PROPERTIES:

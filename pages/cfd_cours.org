@@ -18,7 +18,8 @@ During this part, we can do some estimates or hand calculations or experimental 
 *** [[convergence]]: minimum faut 2 maillages pour dire que le résultat converge et qu'il n'y a pas d'effet de maillage sur le résultat) e.g. 5% de tolérance i.e. erreur relative entre 2 résultats.
 *** la modélisation nécessite d'une [[solution numérique]]
 *** [[cours de Turbulence]]
-***
+*** Type d'écoulement:
+**** écoulement à potentiel de vitesse: on néglige la viscosité, l'écoulement est stationnaire sans actions externes(flux de chaleur, gravité, élctromagnétism...)
 ** Formation avec M.Réveillon
 *** [[coefficient de transfert]]
 *** [[convection]]

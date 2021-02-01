@@ -1,0 +1,43 @@
+#+TITLE: projet aster M2
+
+** il reste à faire le 26/01/2021
+*** convergence
+:PROPERTIES:
+:todo: 1611656782819
+:END:
+**** TODO mailler le maillage pour trouver la convergence et garder celui-là
+:PROPERTIES:
+:todo: 1611658590815
+:END:
+**** TODO diminuer le nombre d'itération, 500 pas à 200 pas
+:PROPERTIES:
+:todo: 1611658593239
+:END:
+*** TODO varier la Uimposé (i.e. la charge) et noter la déformation associée, tracer la courbe de déformation en fonction de Uimposé
+:PROPERTIES:
+:todo: 1611656788317
+:END:
+*** TODO image à souvgarder :
+:PROPERTIES:
+:todo: 1611656789850
+:END:
+**** déformé plastique du tube + outil
+**** contrainte de Von mises
+**** déformation plastique
+*** TODO matériau : tube alu?
+:PROPERTIES:
+:todo: 1611657375835
+:END:
+*** TODO élasto plastique a un caractéristique irréversible?
+:PROPERTIES:
+:todo: 1611657673337
+:END:
+** introduction & problématique & objectif
+*** nous étudions un tube cylindrique en *alu*, encastré à gauche et poussé par outil d'évasement en forme de cône à droite. Le matériau du tube est considéré *élasto-plastique* et l'outil reste dans son domaine élastique. Nous cherchons à déterminer l'évolution du diamètre du tube en fonction de la charge.
+** bibliographie & approche de résolution & validation
+** méthodes & hypothèses &démarches principales de modélisation
+*** pour simplifier la géométrie, nous allons la couper en 2 sous l'hypothèse axisymétrique suivant y et nous étudions le problème en 2D.
+*** Nous imposons au point A (à gauche) UyA=0 et au point B(à droite) UyB, on s'intéresse la déformation dans la partie de contact.
+*** hypothèse:
+** résultats numérique
+** discussion & conclusion

@@ -28,6 +28,7 @@ R e =U∞D/ν
 ****** observées souvent dans une conduite, derrière un obstacle
 ****** 阻流体下游的两侧，会产生两道非对称地排列的旋涡，其中一侧的旋涡循时针方向转动，另一旋涡则反方向旋转，这两排旋涡相互交错排列，各个旋涡和对面两个旋涡的中间点对齐，如街道道两边的街灯一般，故名涡街。
 *** Turbulence et stabilité des écoulements. Une solution exacte d'une équation du mouvement ne peut être observée si elle n'est pas stable ou établie.
+**** l’écoulement turbulent qui s’établit possède les mêmes symétries que l’écoulement laminaire.
 **** DONE question: quand on dit un écoulement stabilise, c'est qu'il converge?
 :PROPERTIES:
 :todo: 1610959229599
@@ -35,4 +36,11 @@ R e =U∞D/ν
 :END:
 ***** NON, rien à voir avec la convergence! écoulement stable ou établi a une forme asymptotique. c'est ce qu'on observe dans un canal rectiligne après une certante longueur de parcours.
 **** Propriété de stabilité
-*****
+***** problèmes non dissipatifs : équations d’Euler
+****** on néglige la viscosité donc la dissipation epsilon = 0
+*** Le nombre de Reynolds
+**** terme de dissipation est  nécessairement négatif (ou nul). La viscosité a ainsi pour effet de dissiper l’énergie cinétique en chaleur (énergie interne).
+*** La turbulence apparaît comme un mouvement du fluide aux multiples échelles caractéristiques.
+Ce sont les termes non linéaires des équations de Navier-Stokes qui sont responsables de la création de nombreuses échelles
+**** lié avec la longeur d'onde
+*** Un écoulement turbulent décrit uniquement par ses grandeurs physiques moyennes a une apparence beaucoup plus simple que ses réalisations particulières

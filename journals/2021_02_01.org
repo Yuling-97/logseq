@@ -1,0 +1,41 @@
+#+TITLE: Feb 1st, 2021
+
+** période entreprise
+*** comparer un calcul sous Fluent avec Openfoam
+**** [[CFD pratique]]
+*** calcul de pertes de charge
+*** thermique (densité et caractéristique des matériaux)
+*** TODO installation de la nouvelle machine virtuelle & des outils de CFD 
+:PROPERTIES:
+:todo: 1612170978563
+:END:
+*** TODO téléchargement des vidéos & slides 
+:PROPERTIES:
+:todo: 1612170969063
+:END:
+** rendez-vous lentilles
+*** partir de l'entreprise à 15h30
+** préparation pour le rendez-vous sujet de [[thèse]]
+*** who
+**** je m'appelle Yuling, je fais mes études en France depuis 5 ans. Après mon bac, je suis partie de Chine pour ma licence de mécanique à Metz en lorraine. Une fois diplomée je suis venue à Lyon pour le master de modélisation de mécanique.
+*** why
+**** Je suis en parcours alternance depuis juillet l'année dernière, je travaille dans une bureau d'étude *de* fours industriel. Ils ont une équipe *成熟的团队* de conception, ils utilisent le logiciel inventor (c'est comme catia) pour dessiner la géométrie. Et puis au niveau de la performance, pour savoir la perte de charge ou *diffusion?* ils faisaient sois des simulations simples (comme le module de calcul sous solidworks ) sois ils demandaient quelqu'un dehors de l'entrepris qui fait de la CFD pour des calculs précis.
+*** what problématique
+**** du coup mon objectif est d'utiliser les modèles accessibles sur Openfoam, dévlopper un modèle qui s'adapte à notre four, sacant que les conditions initiales, les *caracthéristiques* thermiques, l'environnement dans les industries où sont installés les fours est *不怎么变的 行规*.
+*** how
+**** Mais il y a pas un expert de CFD à l'entreprise, il y a 2 personnes qui ont des expériences avec CFX. Quand je suis arrivée à l'entreprise en mi-juillet, mon tuteur était en vacances, je me suis débrouillée pour les installations de linux  et des outils de calculs, j'ai suivi des tutoriels en ligne, le premier cas était le cavity comme introduit en tp de monsieur Escriva. J'ai consulté bcp de
+**** après les cours de turbulence avec monsieur le penven en septembre, il a montré des résultats expérimentals du sillage derrière d'un cylindre, j'ai simulé sous openfoam pour voir les écoulements stationnaire instationnaire avec le solver transitoire ou permanent. J'ai commencé aussi à comparer les résulats sous Fluent avec ceux d'openfoam.
+**** ça fait 3 mois et demi le temps que je suis à l'entreprise, j'ai vu comment mailler une géométrie relativement compliquée, (avec les critères de non orthogonalité, aspect ratio), comment comprendre les calculs des équations sous openfoam et rajouter des equations thermiques.
+**** j'ai travaillé jusqu'à présent bcp sur la perte de charge avec mon tuteur, nous avons une formation en mi-décembre pour aborder la thermique.
+****
+** 02/02/2021
+*** TODO est-ce que tu peux me rappeler notre objectif?
+:PROPERTIES:
+:todo: 1612213923036
+:END:
+**** tu m'as parlé de perte de charge
+**** thermique..?
+*** TODO perte de charge rugosité
+:PROPERTIES:
+:todo: 1612215675016
+:END:
